@@ -10,4 +10,4 @@ function escolhaCor(cor: Cores): void {
   console.log(Cores[cor]);
 }
 
-escolhaCor(12346);
+escolhaCor(Cores.amarelo);
